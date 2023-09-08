@@ -1,4 +1,4 @@
 # learning-repo
 I am learning GitHub 
 <br>
-Author - Anshu
+Author - Anshu Jaiswal
